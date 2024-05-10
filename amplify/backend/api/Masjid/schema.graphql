@@ -1,0 +1,19 @@
+type Masjid @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  name: String
+  background: String
+  generalpolicy: String
+  management: String
+  latitude: Float
+  longitude: Float
+  address: String
+  phone: String
+  fax: String
+  nikah: String
+  counselling: String
+  janazah: String
+  ruqya: String
+  url1: String
+  url2: String
+}
+ 

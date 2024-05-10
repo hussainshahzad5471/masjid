@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "Masjid",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-masjid-staging-80746-authRole",
+      "UnauthRoleArn": "arn:aws:iam::891377173432:role/amplify-masjid-staging-80746-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::891377173432:role/amplify-masjid-staging-80746-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-masjid-staging-80746-deployment",
+      "UnauthRoleName": "amplify-masjid-staging-80746-unauthRole",
+      "StackName": "amplify-masjid-staging-80746",
+      "StackId": "arn:aws:cloudformation:us-east-1:891377173432:stack/amplify-masjid-staging-80746/e4b70020-0d5e-11ef-a1f0-0eb7a405ec37",
+      "AmplifyAppId": "d39bqdcm19lgha"
+    }
+  }
+}
